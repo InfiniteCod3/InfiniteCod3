@@ -1,6 +1,8 @@
+- Pronouns: He/Him
+- Learning: JS, PHP, C++, C#, Py
+
+### 📊 Stats
 [![InfiniteCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteCod3)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m @InfiniteCod3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+
